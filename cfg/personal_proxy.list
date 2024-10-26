@@ -13,3 +13,4 @@ DOMAIN-SUFFIX,dlsite.com
 DOMAIN-SUFFIX,akinator.com
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,ipify.org
+DOMAIN,deb.debian.org
