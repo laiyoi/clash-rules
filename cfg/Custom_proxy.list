@@ -66,13 +66,15 @@ DOMAIN-SUFFIX,asmr-300.com
 DOMAIN-SUFFIX,wikipedia.org
 
 # CurseForge
-- DOMAIN-SUFFIX,curseforge.com
-- DOMAIN-SUFFIX,cursecdn.com
-- DOMAIN-SUFFIX,forgecdn.net
-- DOMAIN-SUFFIX,edge.forgecdn.net
-- DOMAIN-SUFFIX,api.curseforge.com
+DOMAIN-SUFFIX,curseforge.com
+DOMAIN-SUFFIX,cursecdn.com
+DOMAIN-SUFFIX,forgecdn.net
+DOMAIN-SUFFIX,edge.forgecdn.net
+DOMAIN-SUFFIX,api.curseforge.com
 
 # Modrinth
-- DOMAIN-SUFFIX,modrinth.com
-- DOMAIN-SUFFIX,api.modrinth.com
-- DOMAIN-SUFFIX,cdn.modrinth.com
+DOMAIN-SUFFIX,modrinth.com
+DOMAIN-SUFFIX,api.modrinth.com
+DOMAIN-SUFFIX,cdn.modrinth.com
+
+DOMAIN-SUFFIX,thepiratebay.org
