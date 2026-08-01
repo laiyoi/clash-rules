@@ -80,3 +80,6 @@ DOMAIN-SUFFIX,cdn.modrinth.com
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,reimu.net
 DOMAIN-SUFFIX,2dfan.com
+
+# MC Mods
+DOMAIN-SUFFIX,maven.neoforged.net
