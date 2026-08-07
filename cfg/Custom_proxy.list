@@ -12,8 +12,12 @@ DOMAIN-SUFFIX,akinator.com
 DOMAIN-SUFFIX,ipify.org
 DOMAIN,deb.debian.org
 DOMAIN-SUFFIX,metacubex.ones
+
 DOMAIN-SUFFIX,coomer.su
 DOMAIN-SUFFIX,coomer.st
+DOMAIN-SUFFIX,coomerfans.com
+DOMAIN-SUFFIX,kemono.cr
+
 DOMAIN-SUFFIX,nexus-cdn.com
 DOMAIN-SUFFIX,nexusmods.com
 DOMAIN,npa-twm-tpe-02.twm.geforcenow.nvidiagrid.net
@@ -37,7 +41,6 @@ DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN,downloads.acxcdn.com
 DOMAIN,support.gaijin.net
-DOMAIN-SUFFIX,kemono.cr
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,llgjc.xyz
@@ -57,6 +60,7 @@ DOMAIN-SUFFIX,vrchat.com
 DOMAIN-SUFFIX,unity.com
 DOMAIN-SUFFIX,ecency.com
 DOMAIN-SUFFIX,reddit.com
+
 # ASMR.one
 DOMAIN-SUFFIX,asmr.one
 DOMAIN-SUFFIX,asmr-100.com
