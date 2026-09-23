@@ -18,8 +18,6 @@ DOMAIN-SUFFIX,coomer.st
 DOMAIN-SUFFIX,coomerfans.com
 DOMAIN-SUFFIX,kemono.cr
 
-DOMAIN-SUFFIX,nexus-cdn.com
-DOMAIN-SUFFIX,nexusmods.com
 DOMAIN,npa-twm-tpe-02.twm.geforcenow.nvidiagrid.net
 DOMAIN,gx-target-experiments-frontend-api.gx.nvidia.com
 DOMAIN,prod.otel.kaizen.nvidia.com
@@ -63,7 +61,17 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,archive.org
 DOMAIN-SUFFIX,pornolab.net
 DOMAIN-SUFFIX,plab.site
+
+# Mod Site
 DOMAIN-SUFFIX,thunderstore.io
+DOMAIN-SUFFIX,beatsaver.com
+DOMAIN-SUFFIX,nexus-cdn.com
+DOMAIN-SUFFIX,nexusmods.com
+
+# Modrinth
+DOMAIN-SUFFIX,modrinth.com
+DOMAIN-SUFFIX,api.modrinth.com
+DOMAIN-SUFFIX,cdn.modrinth.com
 
 DOMAIN,images.steamusercontent.com
 
@@ -89,10 +97,7 @@ DOMAIN-SUFFIX,forgecdn.net
 DOMAIN-SUFFIX,edge.forgecdn.net
 DOMAIN-SUFFIX,api.curseforge.com
 
-# Modrinth
-DOMAIN-SUFFIX,modrinth.com
-DOMAIN-SUFFIX,api.modrinth.com
-DOMAIN-SUFFIX,cdn.modrinth.com
+
 
 DOMAIN-SUFFIX,thepiratebay.org
 DOMAIN-SUFFIX,reimu.net
