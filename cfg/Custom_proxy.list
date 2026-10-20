@@ -38,7 +38,6 @@ DOMAIN-SUFFIX,airav.io
 DOMAIN-SUFFIX,gnu.org
 DOMAIN-SUFFIX,itch.io
 DOMAIN,downloads.acxcdn.com
-DOMAIN,support.gaijin.net
 DOMAIN-SUFFIX,llgjc1.com
 DOMAIN-SUFFIX,llg01.com
 DOMAIN-SUFFIX,llgjc.xyz
@@ -65,7 +64,7 @@ DOMAIN-SUFFIX,tokyomotion.net
 DOMAIN-SUFFIX,vrporn.com
 DOMAIN-SUFFIX,nyaa.si
 DOMAIN-SUFFIX,suno.com
-KEYWORD,nhentai
+DOMAIN-KEYWORD,nhentai
 DOMAIN-SUFFIX,z-library.sk
 DOMAIN-SUFFIX,patreon.com
 
